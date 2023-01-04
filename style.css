@@ -1,0 +1,20 @@
+*{
+  padding: 0px;
+}
+
+
+#description
+{
+  background:brown;
+  border-top:solid black;
+  border-top-width:3px ;
+  min-height:200px;
+  max-height: 500px;
+}
+
+#bar
+{
+  border:2px solid green;
+  background-color:rgb(0, 0, 0);
+  color:white;
+}
